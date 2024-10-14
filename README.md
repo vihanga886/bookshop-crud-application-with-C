@@ -2,6 +2,8 @@
 
 This is a simple command-line CRUD (Create, Read, Update, Delete) system for managing a bookshop. The system allows you to manage books, employees, stock count, and payments.
 
+![crud_bookShop](https://github.com/user-attachments/assets/3b712cee-9714-4561-8101-8bc717e2a155)
+
 ## Features
 
 - **Books Management**: Add, view, update, and delete books.

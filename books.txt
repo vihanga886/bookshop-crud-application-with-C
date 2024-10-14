@@ -1,0 +1,25 @@
+101
+The Catcher in the Rye
+J.D. Salinger
+20
+15.99
+102
+To Kill a Mockingbird
+Harper Lee
+30
+12.49
+103
+1984
+George Orwell
+10
+18.75
+104
+Moby Dick
+Herman Melville
+5
+22.30
+105
+The Great Gatsby
+F. Scott Fitzgerald
+25
+10.99
